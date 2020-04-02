@@ -1,0 +1,7 @@
+code: survey-plugin-bundle
+description: A bundle with only the survey-plugin inside
+
+components:
+  plugins:
+    - plugins/entando-survey-plugin.yaml
+
